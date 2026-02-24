@@ -1,0 +1,9 @@
+# Format: NUMBER|MM/YY|CVC
+# Baris yang diawali # diabaikan
+# Tahun boleh 2-digit (34) atau 4-digit (2034)
+# Contoh:
+# 6258142677437911|10/34|831
+
+6258142684510676|10/34|234
+5388410551828785|12/33|389
+6258142695627410|04/34|738
